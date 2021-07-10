@@ -1,0 +1,13 @@
+Steps for GIT
+1.git --version
+2.mkdir test
+3.cd test
+4.git init
+5.git add FileName.format
+6.git commit -m "Comments for commit"
+7.git config --global user.username 
+8.git remote add origin https://github.com/RakeshPonnari/FoodDonation.git
+9. git push origin master
+
+ls is used to see all directory
+ 
